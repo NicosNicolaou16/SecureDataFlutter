@@ -10,7 +10,7 @@
 .svn/
 migrate_working_dir/
 
-# add this here
+# add this here - for now we keep them because it is example project
 .env
 lib/env/env.g.dart
 lib/env/*
