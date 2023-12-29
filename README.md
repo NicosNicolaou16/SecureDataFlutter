@@ -11,7 +11,7 @@ This example project tested how we keep secure the data in Flutter, example, api
 Note: For this example keeps the files with dummy/tested api key but for real project you have to add them in gitignore file
 
 ### Commands for generation
-dart run build_runner build or dart run build_runner build --delete-conflicting-outputs
+dart run build_runner build OR dart run build_runner build --delete-conflicting-outputs
 
 ## Versions
 
