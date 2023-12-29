@@ -8,6 +8,8 @@ This example project tested how we keep secure the data in Flutter, example, api
 4) Generated
 5) Add the Key ```Dart static String apiKey = _Env.apiKey```
 
+Note: For this example keeps the files with dummy/tested api key but for real project you have to add them in gitignore file
+
 ### Commands for generation
 dart run build_runner build or dart run build_runner build --delete-conflicting-outputs
 
