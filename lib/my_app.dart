@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:securedataflutter/env.dart';
 
 class MyApp extends StatefulWidget {
   const MyApp({super.key});
@@ -8,6 +9,8 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
+  final String _apiKey = Env.apiKey;
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -19,8 +22,8 @@ class _MyAppState extends State<MyApp> {
       home: Scaffold(
         body: Center(
           child: Text(
-            "",
-            style: TextStyle(
+            _apiKey,
+            style: const TextStyle(
               fontSize: 25,
               color: Colors.black,
             ),
