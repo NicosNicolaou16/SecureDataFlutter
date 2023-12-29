@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:securedataflutter/env.dart';
+import 'package:securedataflutter/env/env.dart';
 
 class MyApp extends StatefulWidget {
   const MyApp({super.key});

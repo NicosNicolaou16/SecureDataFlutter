@@ -12,7 +12,8 @@ migrate_working_dir/
 
 # add this here
 .env
-lib/env.g.dart
+lib/env/env.g.dart
+lib/env/*
 
 # IntelliJ related
 *.iml
