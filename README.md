@@ -19,7 +19,7 @@ dart run build_runner build or dart run build_runner build --delete-conflicting-
 Flutter SDK version: 3.16.5 <br />
 Dart Version: 3.2.3 <br />
 
-# Reference
+# References
 https://pub.dev/packages/envied <br />
 https://medium.com/@r1n1os/securing-sensitive-data-in-flutter-d0a8e060a11e <br />
 https://github.com/r1n1os/Secure-Sensitive-Data-Example <br />
