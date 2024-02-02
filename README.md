@@ -16,8 +16,8 @@ dart run build_runner build or dart run build_runner build --delete-conflicting-
 
 ## Versions
 
-Flutter SDK version: 3.16.5 <br />
-Dart Version: 3.2.3 <br />
+Flutter SDK version: 3.16.9 <br />
+Dart Version: 3.2.6 <br />
 
 # References
 https://pub.dev/packages/envied <br />
