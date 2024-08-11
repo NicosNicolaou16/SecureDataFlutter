@@ -20,7 +20,7 @@ version: 1.0.0+1
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
-  flutter: 3.22.2
+  flutter: 3.24.0
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -41,7 +41,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  build_runner: ^2.4.11
+  build_runner: ^2.4.12
   envied_generator: ^0.5.4+1
 
   # The "flutter_lints" package below contains a set of recommended lints to
