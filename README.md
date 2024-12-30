@@ -19,7 +19,7 @@ them to the .gitignore file.
 
 ### Commands for generation
 
-dart run build_runner build or dart run build_runner build --delete-conflicting-outputs
+`dart run build_runner build or dart run build_runner build --delete-conflicting-outputs`
 
 ## Versions
 
