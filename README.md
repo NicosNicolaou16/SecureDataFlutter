@@ -14,8 +14,8 @@ This example project tests how we secure data in Flutter, such as API keys.
 
 ### Important Note:
 
-For this example keeps the files with dummy/tested api key but for real project you have to add them
-in gitignore file.
+For this example, keep the files with dummy/test API keys, but for a real project, you should add
+them to the .gitignore file.
 
 ### Commands for generation
 
