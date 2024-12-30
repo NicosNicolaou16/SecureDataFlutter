@@ -17,7 +17,7 @@ This example project tests how we secure data in Flutter, such as API keys.
 For this example, keep the files with dummy/test API keys, but for a real project, you should add
 them to the `.gitignore` file.
 
-### Commands for generation
+### Commands for Generation
 
 `dart run build_runner build` or `dart run build_runner build --delete-conflicting-outputs`
 
