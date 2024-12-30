@@ -15,7 +15,7 @@ This example project tests how we secure data in Flutter, such as API keys.
 ### Important Note:
 
 For this example, keep the files with dummy/test API keys, but for a real project, you should add
-them to the .gitignore file.
+them to the `.gitignore` file.
 
 ### Commands for generation
 
