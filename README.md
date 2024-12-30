@@ -7,8 +7,8 @@ This example project tests how we secure data in Flutter, such as API keys.
 1) Create the `.env` file inside the main directory.
 2) Create the `env.dart` file.
 3) For static variable ```static String apiKey = _Env``` and run the new command (the old one
-   deprecated) "dart run build_runner build" or dart run build_runner build
-   --delete-conflicting-outputs.
+   deprecated) `dart run build_runner build` or
+   `dart run build_runner build--delete-conflicting-outputs`.
 4) Generated.
 5) Add the Key ```static String apiKey = _Env.apiKey```.
 
