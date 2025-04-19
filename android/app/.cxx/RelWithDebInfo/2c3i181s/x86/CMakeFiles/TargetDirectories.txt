@@ -1,0 +1,2 @@
+C:/Users/Nicos/Desktop/AndroidProjects/securedataflutter/android/app/.cxx/RelWithDebInfo/2c3i181s/x86/CMakeFiles/edit_cache.dir
+C:/Users/Nicos/Desktop/AndroidProjects/securedataflutter/android/app/.cxx/RelWithDebInfo/2c3i181s/x86/CMakeFiles/rebuild_cache.dir

@@ -25,8 +25,8 @@ if (flutterVersionName == null) {
 android {
     namespace "com.nicos.securedataflutter"
     compileSdk 35
-    ndkVersion '27.2.12479018'
-    buildToolsVersion '35.0.0'
+    ndkVersion '28.0.13004108'
+    buildToolsVersion '35.0.1'
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
