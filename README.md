@@ -13,7 +13,7 @@
 
 This example project tests how we secure data in Flutter, such as API keys.
 
-# Steps
+## ✨ Steps
 
 1) Create the `.env` file inside the main directory.
 2) Create the `env.dart` file.
@@ -23,23 +23,22 @@ This example project tests how we secure data in Flutter, such as API keys.
 4) Generated.
 5) Add the Key ```static String apiKey = _Env.apiKey```.
 
-### Important Note:
-
+> [!IMPORTANT]
 For this example, keep the files with dummy/test API keys, but for a real project, you should add
 them to the `.gitignore` file.
 
-### Commands for Generation
+## 🛠 Commands for Generation
 
 `dart run build_runner build` or `dart run build_runner build --delete-conflicting-outputs`
 
-## Versioning
+## 🔧 Versioning
 
-Flutter SDK version: 3.38.5 <br />
-Dart Version: 3.10.4 <br />
+*   **Flutter SDK version**: **3.41.2**
+*   **Dart Version**: **3.11.0**
 
-# References
+## 📚 References & Tutorials
 
-https://pub.dev/packages/envied <br />
-https://medium.com/@r1n1os/securing-sensitive-data-in-flutter-d0a8e060a11e <br />
-https://github.com/r1n1os/Secure-Sensitive-Data-Example <br />
+*   [envied package on pub.dev](https://pub.dev/packages/envied)
+*   [Securing Sensitive Data in Flutter on Medium](https://medium.com/@r1n1os/securing-sensitive-data-in-flutter-d0a8e060a11e)
+*   [Secure Sensitive Data Example on GitHub](https://github.com/r1n1os/Secure-Sensitive-Data-Example)
 
