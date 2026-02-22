@@ -34,12 +34,12 @@ them to the `.gitignore` file.
 
 ## Versioning
 
-Flutter SDK version: 3.38.5 <br />
-Dart Version: 3.10.4 <br />
+Flutter SDK version: 3.41.2 <br />
+Dart Version: 3.11.0 <br />
 
 # References
 
-https://pub.dev/packages/envied <br />
-https://medium.com/@r1n1os/securing-sensitive-data-in-flutter-d0a8e060a11e <br />
-https://github.com/r1n1os/Secure-Sensitive-Data-Example <br />
+- https://pub.dev/packages/envied <br />
+- https://medium.com/@r1n1os/securing-sensitive-data-in-flutter-d0a8e060a11e <br />
+- https://github.com/r1n1os/Secure-Sensitive-Data-Example <br />
 
