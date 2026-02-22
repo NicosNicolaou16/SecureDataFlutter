@@ -13,7 +13,7 @@
 
 This example project tests how we secure data in Flutter, such as API keys.
 
-# Steps
+# ✨ Steps
 
 1) Create the `.env` file inside the main directory.
 2) Create the `env.dart` file.
@@ -23,12 +23,12 @@ This example project tests how we secure data in Flutter, such as API keys.
 4) Generated.
 5) Add the Key ```static String apiKey = _Env.apiKey```.
 
-### Important Note:
+### 🔧 Important Note:
 
 For this example, keep the files with dummy/test API keys, but for a real project, you should add
 them to the `.gitignore` file.
 
-### Commands for Generation
+### 🛠 Commands for Generation
 
 `dart run build_runner build` or `dart run build_runner build --delete-conflicting-outputs`
 
