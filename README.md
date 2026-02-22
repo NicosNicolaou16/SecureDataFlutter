@@ -32,14 +32,14 @@ them to the `.gitignore` file.
 
 `dart run build_runner build` or `dart run build_runner build --delete-conflicting-outputs`
 
-## Versioning
+## 🔧 Versioning
 
-Flutter SDK version: 3.41.2 <br />
-Dart Version: 3.11.0 <br />
+*   **Flutter SDK version**: **3.41.2**
+*   **Dart Version**: **3.11.0**
 
-# References
+## 📚 References & Tutorials
 
-- https://pub.dev/packages/envied <br />
-- https://medium.com/@r1n1os/securing-sensitive-data-in-flutter-d0a8e060a11e <br />
-- https://github.com/r1n1os/Secure-Sensitive-Data-Example <br />
+*  https://pub.dev/packages/envied
+*  https://medium.com/@r1n1os/securing-sensitive-data-in-flutter-d0a8e060a11e
+*  https://github.com/r1n1os/Secure-Sensitive-Data-Example
 
