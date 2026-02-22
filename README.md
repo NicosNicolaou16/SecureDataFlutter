@@ -39,7 +39,7 @@ them to the `.gitignore` file.
 
 ## 📚 References & Tutorials
 
-*  https://pub.dev/packages/envied
-*  https://medium.com/@r1n1os/securing-sensitive-data-in-flutter-d0a8e060a11e
-*  https://github.com/r1n1os/Secure-Sensitive-Data-Example
+*   [envied package on pub.dev](https://pub.dev/packages/envied)
+*   [Securing Sensitive Data in Flutter on Medium](https://medium.com/@r1n1os/securing-sensitive-data-in-flutter-d0a8e060a11e)
+*   [Secure Sensitive Data Example on GitHub](https://github.com/r1n1os/Secure-Sensitive-Data-Example)
 
