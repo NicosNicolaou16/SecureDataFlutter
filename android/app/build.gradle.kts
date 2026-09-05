@@ -7,8 +7,8 @@ plugins {
 
 android {
     namespace = "com.nicos.securedataflutter"
-    buildToolsVersion = "36.0.0"
-    compileSdk = 36
+    buildToolsVersion = "37.0.0"
+    compileSdk = 37
     ndkVersion = "29.0.14206865"
 
     compileOptions {
