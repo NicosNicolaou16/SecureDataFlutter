@@ -33,8 +33,8 @@ them to the `.gitignore` file.
 
 ## 🔧 Versioning
 
-*   **Flutter SDK version**: **3.41.2**
-*   **Dart Version**: **3.11.0**
+*   **Flutter SDK version**: **3.47.2**
+*   **Dart Version**: **3.13.2**
 
 ## 📚 References & Tutorials
 

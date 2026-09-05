@@ -7,8 +7,8 @@ plugins {
 
 android {
     namespace = "com.nicos.securedataflutter"
-    buildToolsVersion = "36.0.0"
-    compileSdk = 36
+    buildToolsVersion = "37.0.0"
+    compileSdk = 37
     ndkVersion = "29.0.14206865"
 
     compileOptions {
@@ -22,19 +22,13 @@ android {
         }
     }
 
-    sourceSets {
-        getByName("main") {
-            java.srcDirs("src/main/kotlin")
-        }
-    }
-
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId = "com.nicos.securedataflutter"
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
         minSdk = 29
-        targetSdk = 36
+        targetSdk = 37
         versionCode = flutter.versionCode
         versionName = flutter.versionName
     }
